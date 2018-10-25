@@ -42,3 +42,5 @@ plugins:
 #   - vendor/ruby/
 remote_theme: "mmistakes/minimal-mistakes"
 repository: PiotrowskiD.PiotrowskiD.github.io
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
