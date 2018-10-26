@@ -54,6 +54,13 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/Klub-skutecznej-utraty-wagi-1379661762349046/"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:klubskutecznejutratywagi@gmail.com"
+    - label: "Telefon"
+      icon: "fas fa-phone"
+      url: "tel:+48606988989"
+
 
 
 defaults:
