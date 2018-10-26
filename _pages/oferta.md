@@ -4,7 +4,7 @@ title: Oferta
 permalink: /oferta/
 ---
 
-Oferta
+
 
 karnet podstawowy - rozpisana spersonalizowana dieta*, pomiary masy i składu ciała, warsztaty dietetyczne, konsultacje medyczne, zajęcia na sali z instruktorem 2* w tyg., marsze
 karnet open - rozpisana spersonalizowana dieta*, pomiary masy i składu ciała, warsztaty dietetyczne, konsultacje medyczne, zajęcia na sali z instruktorem bez ograniczeń, marsze
