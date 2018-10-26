@@ -2,6 +2,7 @@
 layout: single
 title: Zajęcia
 permalink: /zajecia/
+toc: true
 ---
 
 ## Zajęcia sportowe:

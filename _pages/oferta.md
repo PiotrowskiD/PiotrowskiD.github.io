@@ -2,6 +2,7 @@
 layout: single
 title: Oferta
 permalink: /oferta/
+classes: wide
 ---
 
 ### karnet podstawowy
