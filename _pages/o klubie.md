@@ -35,3 +35,24 @@ konsultacja trwa dwie godziny – tyle czasu potrzeba, żeby określić, co jest
 odżywiania i rozpocząć proces terapeutyczny.
 
 
+## Kadra
+
+### Aneta Kaźmierczak 
+#### trener fitness
+
+Trener personalny. Instruktor fitnessu. Uczestniczka wielu szkoleń i konwencji fitness. Absolwentka Studiów podyplomowych: Nowoczesne formy fizjoterapii
+
+### Paweł Jendrzejewski
+#### mgr fizjoterapii
+
+Trener i rehabilitant. Prowadzi rehabilitację kardiologiczną, pourazową, pooperacyjną i neurologiczną. Instruktor odnowy biologicznej, instruktor rekreacji ruchowej i ćwiczeń siłowych. Nauczyciel ćwiczeń korekcyjnych. Specjalista dietetyk.
+
+### Bożenna Zalewska- Flont
+#### mgr lekarz rehabilitant
+
+Lekarz rehabilitant, specjalizujący się w krioterapii, terapii ruchowej i leczeniu otyłości, absolwent Akademii Medycznej i AWFiS. Posiada bogate doświadczenie w promocji zdrowia i ruchu. Jej motto życiowe to „Ruch zastąpi każdy lek, ale żaden lek nie zastąpi ruchu”. Osoba o ogromnych pokładach pozytywnej energii.
+
+### Dagmara Piotrowska 
+#### Psychodietetyk
+
+Psychodietetyk – ukończyła studia podyplomowe na SWPS w Sopocie kierunek Psychodietetyka, instruktor Professional Fitness Aqua i ratownik wodny. Pomysłodawczyni i założycielka Klubu, którego podstawę stanowiły jej własne doświadczenia i pragnienie niesienia pomocy innym.
