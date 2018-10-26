@@ -63,3 +63,4 @@ defaults:
     values:
       layout: single
 timezone: Europe/Warsaw
+include: ["_pages"]
