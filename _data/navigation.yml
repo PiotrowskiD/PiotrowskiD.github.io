@@ -4,6 +4,12 @@ main:
     url: https://PiotrowskiD.github.io/o-klubie/
   - title: "Zajęcia"
     url: https://PiotrowskiD.github.io/zajecia/
+  - title: "Oferta"
+    url: https://PiotrowskiD.github.io/oferta/
+  - title: "Galeria"
+    url: https://PiotrowskiD.github.io/galeria/
+  - title: "Kontakt"
+    url: https://PiotrowskiD.github.io/kontakt/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
