@@ -51,9 +51,10 @@ teaser: /assets/images/warzywa.png
 
 footer:
   links:
-    label: "Facebook"
-    icon: "fab fa-fw fa-facebook-square"
-    url: "https://www.facebook.com/Klub-skutecznej-utraty-wagi-1379661762349046/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/Klub-skutecznej-utraty-wagi-1379661762349046/"
+
 
 defaults:
   # _pages
@@ -62,5 +63,6 @@ defaults:
       type: pages
     values:
       layout: single
+      
 timezone: Europe/Warsaw
 include: ["_pages"]
