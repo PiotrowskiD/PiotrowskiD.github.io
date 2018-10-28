@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/rsz_1aqua.png
 ---
-{% include figure image_path="/assets/images/grafik.png" alt="Grafik" caption="Grafik" %}
+{% include figure image_path="/assets/images/grafik.png" alt="Grafik" caption="" %}
 
 ## Zajęcia sportowe:
 
