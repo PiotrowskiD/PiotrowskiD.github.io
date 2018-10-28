@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/rsz_lekarz.png
 ---
 
-## KLUB SKUTECZNEJ UTRATY WAGI TO MIEJSCE W KTÓRYM
+## JESTEŚMY MIEJSCEM, W KTÓRYM
 ### WSPIERAMY SIĘ WZAJEMNIE
 Jesteśmy jedną klubową rodziną. U nas poczujesz się jak w domu, wszyscy mówimy sobie po imieniu,
 znamy się, przyjaźnimy i wzajemnie wspieramy. Pokazujemy, że właściwe żywienie zaczyna się od
