@@ -8,6 +8,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/rsz_plecy.png
 ---
+<img src="/assets/images/cennik.png" alt="cennik">
 
 ### Karnet podstawowy
 rozpisana spersonalizowana dieta, pomiary masy i składu ciała, warsztaty dietetyczne, konsultacje medyczne, zajęcia na sali z instruktorem 2 razy w tygodniu, marsze
