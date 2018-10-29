@@ -8,12 +8,12 @@ excerpt: "Radosne odchudzanie"
 author: Dagmara Piotrowska
 ---
 ## Misja klubu
-### Misją klubu jest pomoc osobom z nadwagą i otyłością. 
+### Naszym celem jest pomoc osobom z nadwagą i otyłością. 
 Pomysł Klubu SUW
 zrodził się z własnych doświadczeń założycielki klubu, która całe życie „kochała
 jeść” i borykała się ze zbędnymi kilogramami, stosując różne fatalne w
 skutkach diety czy „cudowne zabiegi na ciało”, które miały pozbawić zbędnej
-tkanki tłuszczowej, a pozbawiły tylko znacznej ilości pieniędzy etc. Dopiero
+tkanki tłuszczowej, a pozbawiły tylko znacznej ilości pieniędzy. Dopiero
 przejście procesu psychoterapeutycznego oraz zmiana trybu życia i wspólne
 ćwiczenia uchroniły ją przed otyłością. Teraz wraz z kadrą specjalistów
 chciałaby pomóc innym osobom, które borykają się z tym samym problemem.
