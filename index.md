@@ -4,7 +4,7 @@ layout: splash
 author_profile: true
 header:
   image: /assets/images/lekarz2.png
-excerpt: "Radosne odchudzanie"
+excerpt:   "Pomoc osobom z nadwagą i otyłością. Opieka trenerów, dietetyka, psychoterapeuty i fizjoterapeuty. W klubie prowadzone są: aqua aerobik (ćwiczenia w wodzie), ćwiczenia fitness z instruktorem, marsze na dworze oraz warsztaty dietetyczne. Psychoterapia dla osób z zaburzeniami odżywiania."
 author: Dagmara Piotrowska
 ---
 ## Misja klubu

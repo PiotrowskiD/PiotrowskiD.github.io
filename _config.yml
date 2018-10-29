@@ -17,7 +17,7 @@ title: Klub skutecznej utraty wagi
 name: Dagmara Piotrowska
 email: klubskutecznejutratywagi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Opis klubu
+  Pomoc osobom z nadwagą i otyłością. Opieka trenerów, dietetyka, psychoterapeuty i fizjoterapeuty. W klubie prowadzone są: aqua aerobik (ćwiczenia w wodzie), ćwiczenia fitness z instruktorem, marsze na dworze oraz warsztaty dietetyczne. Psychoterapia dla osób z zaburzeniami odżywiania.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://piotrowskid.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
