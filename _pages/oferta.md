@@ -7,6 +7,11 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/rsz_plecy.png
+sidebar:
+  - title: "Grzegorz Matysiak"
+    image: /assets/images/grzesiek.jpg
+    image_alt: "Grzegorz Matysiak"
+    text: „Masz jasny cel, schudnąć i poprawić kondycję – To jest klub właśnie dla Ciebie. Dagmara wskaże Ci jak to osiągnąć. Nasze wspaniałe trenerki zatroszczą się o odpowiednią dawkę ruchu, od klubowiczów dostaniesz nieograniczone wsparcie, dobre słowo i bardzo dużo uśmiechu. Dzięki wspaniałym osobom w klubie i odrobinie determinacji w pół roku zrzuciłem 25kg. Drogie Panie i Panowie – naprawdę się da”
 ---
 {% include figure image_path="/assets/images/cennik2.png" alt="Cennik" caption="" %}
 
