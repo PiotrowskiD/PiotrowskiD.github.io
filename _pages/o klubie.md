@@ -7,6 +7,12 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/rsz_lekarz.png
+sidebar:
+  - title: "Katarzyna Lange"
+    image: /assets/images/kl.jpg
+    image_alt: "Katarzyna Lange"
+    text: „Najlepszy klub dla ludzi z problemami z otyłością. Polecam wszystkim serdecznie, pełen profesjonalizm. Dzięki przyjaznej atmosferze która tam panuje bardzo szybko się w nim odnalazlam. To była najlepsza podjęta przeze mnie decyzja. Dzięki klubowi w ciągu zaledwie 5 miesięcy udało mi się zgubić zbędnych 25 kg, to wszystko dzięki ćwiczeniom, diecie oraz terapii psychodietetycznej. Gorąco polecam!”
+
 ---
 
 ## JESTEŚMY MIEJSCEM, W KTÓRYM
@@ -43,21 +49,21 @@ odżywiania i rozpocząć proces terapeutyczny.
 ## Kadra
 
 ### Aneta Kaźmierczak 
-#### trener fitness
+#### Trener fitness
 
 Trener personalny. Instruktor fitnessu. Uczestniczka wielu szkoleń i konwencji fitness. Absolwentka Studiów podyplomowych: Nowoczesne formy fizjoterapii
 
 ### Paweł Jendrzejewski
-#### mgr fizjoterapii
+#### Fizjoterapeuta
 
 Trener i rehabilitant. Prowadzi rehabilitację kardiologiczną, pourazową, pooperacyjną i neurologiczną. Instruktor odnowy biologicznej, instruktor rekreacji ruchowej i ćwiczeń siłowych. Nauczyciel ćwiczeń korekcyjnych. Specjalista dietetyk.
 
 ### Bożenna Zalewska- Flont
-#### mgr lekarz rehabilitant
+#### Lekarz rehabilitant
 
-Lekarz rehabilitant, specjalizujący się w krioterapii, terapii ruchowej i leczeniu otyłości, absolwent Akademii Medycznej i AWFiS. Posiada bogate doświadczenie w promocji zdrowia i ruchu. Jej motto życiowe to „Ruch zastąpi każdy lek, ale żaden lek nie zastąpi ruchu”. Osoba o ogromnych pokładach pozytywnej energii.
+Lekarz specjalizujący się w krioterapii, terapii ruchowej i leczeniu otyłości, absolwent Akademii Medycznej i AWFiS. Posiada bogate doświadczenie w promocji zdrowia i ruchu. Jej motto życiowe to „Ruch zastąpi każdy lek, ale żaden lek nie zastąpi ruchu”. Osoba o ogromnych pokładach pozytywnej energii.
 
 ### Dagmara Piotrowska 
-#### Psychodietetyk
+#### Psychodietetyk, psychoterapeuta
 
-Psychodietetyk – ukończyła studia podyplomowe na SWPS w Sopocie kierunek Psychodietetyka, instruktor Professional Fitness Aqua i ratownik wodny. Pomysłodawczyni i założycielka Klubu, którego podstawę stanowiły jej własne doświadczenia i pragnienie niesienia pomocy innym.
+Ukończyła studia podyplomowe na SWPS w Sopocie kierunek Psychodietetyka, instruktor Professional Fitness Aqua i ratownik wodny. Pomysłodawczyni i założycielka Klubu, którego podstawę stanowiły jej własne doświadczenia i pragnienie niesienia pomocy innym.
