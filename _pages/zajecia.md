@@ -54,5 +54,5 @@ Zajęcia prowadzą do refleksji nad samym sobą, uczą jak
 poradzić sobie ze stresem i innymi trudnymi emocjami,
 otwierają możliwość skorzystania ze swoich indywidualnych
 wewnętrznych i zewnętrznych zasobów.
-
+{: .text-justify}
 

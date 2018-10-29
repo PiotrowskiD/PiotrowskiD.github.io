@@ -38,7 +38,7 @@ z Tobą w nurcie TSRR (terapia krótkoterminowa skoncentrowana na rozwiązaniach
 psychoterapeutyczne prowadzi doświadczony psychodietetyk. Spotkania są indywidualne, pierwsza
 konsultacja trwa dwie godziny – tyle czasu potrzeba, żeby określić, co jest przyczyną zaburzeń
 odżywiania i rozpocząć proces terapeutyczny.
-
+{: .text-justify}
 
 ## Kadra
 

@@ -5,12 +5,10 @@
 layout: splash
 author_profile: true
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/warzywa.png
+  image: /assets/images/warzywa.png
 excerpt: "Radosne odchudzanie"
 ---
-## O klubie
+## Misja klubu
 ### Misją klubu jest pomoc osobom z nadwagą i otyłością. 
 Pomysł Klubu SUW
 zrodził się z własnych doświadczeń założycielki klubu, która całe życie „kochała
@@ -42,3 +40,4 @@ udział w specjalnych warsztatach dla członków Klubu, prowadzonych przez
 psychoterapeutę, lekarza i dowiedzieć się więcej o sobie samym, o swoim
 problemie, jego konsekwencjach i przyczynach i sposobach na zdrowe życie w
 harmonii ze swoim organizmem i samym sobą.
+{: .text-justify}

@@ -24,7 +24,7 @@ obejmują pomoc w rozwiązywaniu problemów związanych ze sposobem odżywiania 
 wywiad lekarski z diagnozą przyczyn otyłości, badanie fizykalne, uproszczona próba wydolnościowa
 * w przypadku karnetów z basenem płatność z góry za cały okres obowiązywania karnetu
 * w przypadku diety eliminacyjnej – dopłata od 50 do 150zł/m-c
-
+{: .text-justify}
 Wpłat należy dokonywać na konto:
 nr 70 1050 1764 1000 0092 2305 4645
 USŁUGI PROZDROWOTNE DAGMARA PIOTROWSKA
