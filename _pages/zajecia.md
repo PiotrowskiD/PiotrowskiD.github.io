@@ -10,7 +10,6 @@ header:
 ---
 {% include figure image_path="/assets/images/grafik2.png" alt="Grafik" caption="" %}
 
-## Zajęcia sportowe:
 
 ### Aquaspalanie
 innowacyjna forma spalania kalorii podczas treningu w
