@@ -6,7 +6,7 @@ classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/rsz_lekarz.png
+  overlay_image: /assets/images/warzywa.jpg
 sidebar:
   - title: "Katarzyna Lange"
     image: /assets/images/kl.jpg

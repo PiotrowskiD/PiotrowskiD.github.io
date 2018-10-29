@@ -1,12 +1,11 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: splash
 author_profile: true
 header:
-  image: /assets/images/warzywa.jpg
+  image: /assets/images/lekarz2.png
 excerpt: "Radosne odchudzanie"
+author: Dagmara Piotrowska
 ---
 ## Misja klubu
 ### Misją klubu jest pomoc osobom z nadwagą i otyłością. 
