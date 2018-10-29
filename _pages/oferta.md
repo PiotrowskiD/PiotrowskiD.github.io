@@ -12,12 +12,16 @@ header:
 
 ### Karnet podstawowy
 rozpisana spersonalizowana dieta, pomiary masy i składu ciała, warsztaty dietetyczne, konsultacje medyczne, zajęcia na sali z instruktorem 2 razy w tygodniu, marsze
+{: .text-justify}
 ### Karnet open
 rozpisana spersonalizowana dieta, pomiary masy i składu ciała, warsztaty dietetyczne, konsultacje medyczne, zajęcia na sali z instruktorem bez ograniczeń, marsze
+{: .text-justify}
 ### Karnet podstawowy z basenem
 rozpisana spersonalizowana dieta, warsztaty dietetyczne, konsultacje medyczne, zajęcia na sali z instruktorem 2 razy w tygodniu, marsze, aqua aerobic raz w tygodniu
+{: .text-justify}
 ### Karnet open z basenem
 rozpisana spersonalizowana dieta, warsztaty dietetyczne, konsultacje medyczne, zajęcia na sali z instruktorem bez ograniczeń, marsze, aqua aerobic 2 razy w tygodniu
+{: .text-justify}
 ### Konsultacje psychodietetyczne
 obejmują pomoc w rozwiązywaniu problemów związanych ze sposobem odżywiania popartą działaniami ukierunkowanymi na wzmacnianie procesów regulacji wewnętrznej
 ### Konsultacja lekarska
@@ -25,6 +29,7 @@ wywiad lekarski z diagnozą przyczyn otyłości, badanie fizykalne, uproszczona 
 * w przypadku karnetów z basenem płatność z góry za cały okres obowiązywania karnetu
 * w przypadku diety eliminacyjnej – dopłata od 50 do 150zł/m-c
 {: .text-justify}
+
 Wpłat należy dokonywać na konto:
 nr 70 1050 1764 1000 0092 2305 4645
 USŁUGI PROZDROWOTNE DAGMARA PIOTROWSKA
