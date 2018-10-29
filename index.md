@@ -5,7 +5,7 @@
 layout: splash
 author_profile: true
 header:
-  image: /assets/images/warzywa.png
+  image: /assets/images/warzywa.jpg
 excerpt: "Radosne odchudzanie"
 ---
 ## Misja klubu
