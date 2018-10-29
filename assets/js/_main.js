@@ -31,11 +31,12 @@ $(document).ready(function() {
         ? $(window).width() > 1024 // width should match $large Sass variable
         : !$(".author__urls-wrapper button").is(":visible");
     if (show) {
+      //fix more
       // fix
-      $(".sidebar").addClass("sticky");
+      //$(".sidebar").addClass("sticky");
     } else {
       // unfix
-      $(".sidebar").removeClass("sticky");
+      //$(".sidebar").removeClass("sticky");
     }
   };
 
