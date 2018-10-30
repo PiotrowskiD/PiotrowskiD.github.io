@@ -7,7 +7,6 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/rsz_1aqua.png
-excerpt: Oferujemy zajęcia sportowe dla osób z nadwagą i otyłością. Ćwiczenia na spalanie tkanki tłuszczowej. Aqua aerobik, czyli intensywna gimnastyka w wodzie. Ćwiczenia na sali z instruktorem. Marsze na świeżym powietrzu. Zajęcia psychoterapeutyczne w leczeniu otyłości.
 ---
 {% include figure image_path="/assets/images/grafik2.png" alt="Grafik" caption="" %}
 
