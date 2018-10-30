@@ -6,7 +6,7 @@ classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/lekarz2.png
+  overlay_image: /assets/images/lekarz3.png
 author: Dagmara Piotrowska
 sidebar:
   - title: "Katarzyna Lange"
