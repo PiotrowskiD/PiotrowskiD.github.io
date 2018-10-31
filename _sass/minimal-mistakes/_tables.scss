@@ -28,10 +28,36 @@ th {
 td {
   padding: 0.5em;
   border-bottom: 1px solid mix(#000, $border-color, 25%);
+  border-right: 1px solid mix(#000, $border-color, 25%);
+  border-left: 1px solid mix(#000, $border-color, 25%);
 }
 
 tr,
 td,
 th {
   vertical-align: middle;
+}
+
+.basen {
+  background-color: darkturquoise;
+}
+
+.cw-z {
+  background-color: lightcoral;
+}
+
+.cw-p-z {
+  background-color: orange;
+}
+
+.cw-p {
+  background-color: khaki;
+}
+
+.marsz-p {
+  background-color: lightgreen;
+}
+
+.marsz-z {
+  background-color: yellowgreen;
 }

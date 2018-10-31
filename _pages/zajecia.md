@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: single-zajecia
 title: Zajęcia
 permalink: /zajecia/
 classes: wide
@@ -13,7 +13,8 @@ sidebar:
     image_alt: "Daria Gołębiewska"
     text: "To cudowne miejsce stworzone przez osobę, która kocha ludzi i cieszy się ich sukcesami. Kadrę tworzą sami profesjonaliści, atmosfera w klubie jest rodzinna, motywacja wśród klubowiczów ogromna. W 8 miesięcy schudłam 17 kg pomimo niedoczynności tarczycy i pracy w gastronomii. A najważniejsze jest to, że nauczyłam się odżywiać i żyć zdrowo. Polecam z czystym sumieniem!"
 ---
-{% include figure image_path="/assets/images/grafik2.png" alt="Grafik" caption="" %}
+
+
 
 
 ### Aquaspalanie
