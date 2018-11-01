@@ -32,8 +32,8 @@ gallery:
   - url: /assets/images/podchody2.jpg
     image_path: /assets/images/tn_podchody2.jpg
     alt: "Podchody"
-  - url: /assets/images/mecz-polska.jpeg
-    image_path: /assets/images/tn_mecz-polska.jpeg
+  - url: /assets/images/mecz.jpeg
+    image_path: /assets/images/tn_mecz.jpeg
     alt: "Mecz"
   - url: /assets/images/drugie-urodziny.jpg
     image_path: /assets/images/tn_drugie-urodziny.jpg
