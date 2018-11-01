@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: single-oferta
 title: Oferta
 permalink: /oferta/
 classes: wide
@@ -13,7 +13,7 @@ sidebar:
     image_alt: "Grzegorz Matysiak"
     text: „Masz jasny cel, schudnąć i poprawić kondycję – To jest klub właśnie dla Ciebie. Dagmara wskaże Ci jak to osiągnąć. Nasze wspaniałe trenerki zatroszczą się o odpowiednią dawkę ruchu, od klubowiczów dostaniesz nieograniczone wsparcie, dobre słowo i bardzo dużo uśmiechu. Dzięki wspaniałym osobom w klubie i odrobinie determinacji w pół roku zrzuciłem 25kg. Drogie Panie i Panowie – naprawdę się da”
 ---
-{% include figure image_path="/assets/images/cennik2.png" alt="Cennik" caption="" %}
+
 
 ### Karnet podstawowy
 rozpisana spersonalizowana dieta, pomiary masy i składu ciała, warsztaty dietetyczne, konsultacje medyczne, zajęcia na sali z instruktorem 2 razy w tygodniu, marsze
