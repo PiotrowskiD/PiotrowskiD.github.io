@@ -1,8 +1,8 @@
 ---
-layout: single
+layout: splash
 title: Galeria
 permalink: /galeria/
-classes: wide
+
 
 gallery:
   - url: /assets/images/zajecia-sala-z-aneta.jpg
