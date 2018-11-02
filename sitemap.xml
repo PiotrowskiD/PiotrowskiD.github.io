@@ -1,25 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://www.odchudzanie-trojmiasto.pl/2018/10/25/witamy-na-nowej-stronie.html</loc>
-<lastmod>2018-10-25T20:00:43+01:00</lastmod>
-</url>
-<url>
 <loc>https://www.odchudzanie-trojmiasto.pl/galeria/</loc>
+<lastmod>2018-11-02</lastmod>
+<priority>0.2</priority>
 </url>
 <url>
 <loc>https://www.odchudzanie-trojmiasto.pl/</loc>
-</url>
-<url>
-<loc>https://www.odchudzanie-trojmiasto.pl/</loc>
+<lastmod>2018-11-02</lastmod>
+<priority>1.0</priority>
 </url>
 <url>
 <loc>https://www.odchudzanie-trojmiasto.pl/kontakt/</loc>
+<lastmod>2018-11-02</lastmod>
+<priority>0.6</priority>
 </url>
 <url>
 <loc>https://www.odchudzanie-trojmiasto.pl/oferta/</loc>
+<lastmod>2018-11-02</lastmod>
+<priority>0.7</priority>
 </url>
 <url>
 <loc>https://www.odchudzanie-trojmiasto.pl/zajecia/</loc>
+<lastmod>2018-11-02</lastmod>
+<priority>0.8</priority>
 </url>
 </urlset>
