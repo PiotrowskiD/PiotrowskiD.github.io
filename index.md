@@ -22,7 +22,7 @@ znamy się, przyjaźnimy i wzajemnie wspieramy. Pokazujemy, że właściwe żywi
 radośniejszego życia.
 {: .text-justify}
 ### ŻYJEMY RADOŚNIEJ I ZDROWIEJ
-Zmieniamy swoje życie na bardziej radosne. Nasz psychodietetyk i psychoterapeuta pomagają w
+Nasz psychodietetyk i psychoterapeuta pomagają w
 poprawie patrzenia na otaczający nasz świat, ponieważ najczęstszą przyczyną zaburzeń odżywiania
 jest niewłaściwy stosunek do samego siebie i otaczającej rzeczywistości. Organizujemy szkolenia i
 warsztaty kulinarne, a każdy z członków klubu otrzymuje od dietetyka spersonalizowaną dietę,
