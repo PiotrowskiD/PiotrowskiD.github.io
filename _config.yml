@@ -88,3 +88,14 @@ timezone: Europe/Warsaw
 include: ["_pages"]
 
 google-site-verification: googleead1f61c32c0c498.html
+
+social:
+  type: Organization
+  name: Klub skutecznej utraty wagi
+  links:
+    - https://www.facebook.com/Klub-skutecznej-utraty-wagi-1379661762349046/
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-90550329-1"
