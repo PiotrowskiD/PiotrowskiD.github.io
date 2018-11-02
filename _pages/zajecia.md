@@ -12,6 +12,7 @@ sidebar:
     image: /assets/images/daria-golebiewska.jpg
     image_alt: "Daria Gołębiewska"
     text: "To cudowne miejsce stworzone przez osobę, która kocha ludzi i cieszy się ich sukcesami. Kadrę tworzą sami profesjonaliści, atmosfera w klubie jest rodzinna, motywacja wśród klubowiczów ogromna. W 8 miesięcy schudłam 17 kg pomimo niedoczynności tarczycy i pracy w gastronomii. A najważniejsze jest to, że nauczyłam się odżywiać i żyć zdrowo. Polecam z czystym sumieniem!"
+description: "Oferujemy zajęcia sportowe dla osób z nadwagą i otyłością. Ćwiczenia na spalanie tkanki tłuszczowej. Aqua aerobik, czyli intensywna gimnastyka w wodzie. Ćwiczenia na sali z instruktorem. Marsze na świeżym powietrzu. Zajęcia psychoterapeutyczne w leczeniu otyłości."
 ---
 
 

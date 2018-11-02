@@ -2,7 +2,7 @@
 layout: splash
 title: Galeria
 permalink: /galeria/
-
+description: "W galerii zdjęć zobaczyć można zdjęcia uczestników jak wyglądali przed schudnięciem i po osiągnięciu celu, fotorelacje z zajęć sportowych oraz z imprez biegowych. Zdjęcia z organizowanych przez klub eventów i zabaw typu Halloween, podchody, Andrzejki itp."
 
 gallery:
   - url: /assets/images/zajecia-sala-z-aneta.jpg

@@ -12,6 +12,7 @@ sidebar:
     image: /assets/images/grzesiek.jpg
     image_alt: "Grzegorz Matysiak"
     text: „Masz jasny cel, schudnąć i poprawić kondycję – To jest klub właśnie dla Ciebie. Dagmara wskaże Ci jak to osiągnąć. Nasze wspaniałe trenerki zatroszczą się o odpowiednią dawkę ruchu, od klubowiczów dostaniesz nieograniczone wsparcie, dobre słowo i bardzo dużo uśmiechu. Dzięki wspaniałym osobom w klubie i odrobinie determinacji w pół roku zrzuciłem 25kg. Drogie Panie i Panowie – naprawdę się da”
+description: Karnety już od 195zł. – w cenie karnetu rozpisana spersonalizowana dieta na każdy dzień, pomiary masy i składu ciała, warsztaty dietetyczne, konsultacje medyczne, zajęcia na sali z instruktorem, opcjonalnie zajęcia na basenie. Konsultacje psychodietetyczne już od 60zł.
 ---
 
 

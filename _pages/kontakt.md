@@ -9,6 +9,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/rsz_maliny.png
+description: "Osoby zainteresowane zapraszamy do kontaktu. Adres mailowy klubskutecznejutratywagi@gmail.com lub przez Facebooka: Klub Skutecznej Utraty Wagi, lub telefonicznie: 606 98 89 89"
 ---
 
 
