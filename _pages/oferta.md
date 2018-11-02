@@ -31,7 +31,7 @@ rozpisana spersonalizowana dieta, warsztaty dietetyczne, konsultacje medyczne, z
 obejmują pomoc w rozwiązywaniu problemów związanych ze sposobem odżywiania popartą działaniami ukierunkowanymi na wzmacnianie procesów regulacji wewnętrznej
 ### Konsultacja lekarska
 wywiad lekarski z diagnozą przyczyn otyłości, badanie fizykalne, uproszczona próba wydolnościowa
-* w przypadku karnetów z basenem płatność z góry za cały okres obowiązywania karnetu
+
 * w przypadku diety eliminacyjnej – dopłata od 50 do 150zł/m-c
 {: .text-justify}
 
