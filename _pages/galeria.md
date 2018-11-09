@@ -41,6 +41,24 @@ gallery:
   - url: /assets/images/tance.jpg
     image_path: /assets/images/tn_tance.jpg
     alt: "Tańce"
+  - url: /assets/images/zajecia-w-lesie.jpg
+    image_path: /assets/images/tn_zajecia-w-lesie.jpg
+    alt: "Zajecia w lesie"
+  - url: /assets/images/sala2.jpg
+    image_path: /assets/images/tn_sala2.jpg
+    alt: "Po treningu"    
+  - url: /assets/images/morsowanie.jpg
+    image_path: /assets/images/tn_morsowanie.jpg
+    alt: "Morsowanie"  
+  - url: /assets/images/morsowanie2.jpg
+    image_path: /assets/images/tn_morsowanie2.jpg
+    alt: "Morsowanie"
+  - url: /assets/images/basen.jpg
+    image_path: /assets/images/tn_basen.jpg
+    alt: "Zajęcia na basenie"        
+  - url: /assets/images/basen2.jpg
+    image_path: /assets/images/tn_basen2.jpg
+    alt: "Zajęcia na basenie"  
 
 gallery2:
   - url: /assets/images/bieg.jpg
@@ -49,6 +67,15 @@ gallery2:
   - url: /assets/images/bieg-westerplatte.jpg
     image_path: /assets/images/tn_bieg-westerplatte.jpg
     alt: "Bieg westerplatte"
+  - url: /assets/images/dyplomy.jpg
+    image_path: /assets/images/tn_dyplomy.jpg
+    alt: "Rozdanie dyplomów"
+  - url: /assets/images/marsze.jpg
+    image_path: /assets/images/tn_marsze.jpg
+    alt: "Marsze"
+  - url: /assets/images/sala.jpg
+    image_path: /assets/images/tn_sala.jpg
+    alt: "Haloween"
 
 ---
 
