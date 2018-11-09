@@ -50,13 +50,13 @@ odżywiania i rozpocząć proces terapeutyczny.
 
 ### Aneta Kaźmierczak 
 #### Trener fitness
-
-Trener personalny. Instruktor fitnessu. Uczestniczka wielu szkoleń i konwencji fitness. Absolwentka Studiów podyplomowych: Nowoczesne formy fizjoterapii
+{% include figure image_path="/assets/images/rsz_aneta-k.jpg" alt="Aneta Kaźmierczak" caption="Trener personalny. Instruktor fitnessu. Uczestniczka wielu szkoleń i konwencji fitness. Absolwentka Studiów podyplomowych: Nowoczesne formy fizjoterapii
+" %}
 
 ### Paweł Jendrzejewski
 #### Fizjoterapeuta
+{% include figure image_path="/assets/images/rsz_1pawel.jpg" alt="Paweł Jendrzejewski" caption="Trener i rehabilitant. Prowadzi rehabilitację kardiologiczną, pourazową, pooperacyjną i neurologiczną. Instruktor odnowy biologicznej, instruktor rekreacji ruchowej i ćwiczeń siłowych. Nauczyciel ćwiczeń korekcyjnych. Specjalista dietetyk." %}
 
-Trener i rehabilitant. Prowadzi rehabilitację kardiologiczną, pourazową, pooperacyjną i neurologiczną. Instruktor odnowy biologicznej, instruktor rekreacji ruchowej i ćwiczeń siłowych. Nauczyciel ćwiczeń korekcyjnych. Specjalista dietetyk.
 
 ### Bożenna Zalewska- Flont
 #### Lekarz rehabilitant
@@ -65,6 +65,4 @@ Lekarz specjalizujący się w krioterapii, terapii ruchowej i leczeniu otyłośc
 
 ### Dagmara Piotrowska 
 #### Psychodietetyk, psychoterapeuta
-
-Ukończyła studia podyplomowe na SWPS w Sopocie kierunek Psychodietetyka, instruktor Professional Fitness Aqua i ratownik wodny. Pomysłodawczyni i założycielka Klubu, którego podstawę stanowiły jej własne doświadczenia i pragnienie niesienia pomocy innym.
-{: .text-justify}
+{% include figure image_path="/assets/images/rsz_dagmara-p-laptop.jpg" alt="Dagmara Piotrowska" caption="Ukończyła studia podyplomowe na SWPS w Sopocie kierunek Psychodietetyka, instruktor Professional Fitness Aqua i ratownik wodny. Pomysłodawczyni i założycielka Klubu, którego podstawę stanowiły jej własne doświadczenia i pragnienie niesienia pomocy innym." %}
