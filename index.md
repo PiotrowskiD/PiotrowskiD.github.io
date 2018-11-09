@@ -50,19 +50,22 @@ odżywiania i rozpocząć proces terapeutyczny.
 
 ### Aneta Kaźmierczak 
 #### Trener fitness
-{% include figure image_path="/assets/images/rsz_aneta-k.jpg" alt="Aneta Kaźmierczak" caption="Trener personalny. Instruktor fitnessu. Uczestniczka wielu szkoleń i konwencji fitness. Absolwentka Studiów podyplomowych: Nowoczesne formy fizjoterapii
-" %}
-
+{% include figure image_path="/assets/images/rsz_aneta-k.jpg" alt="Aneta Kaźmierczak" %}
+Trener personalny. Instruktor fitnessu. Uczestniczka wielu szkoleń i konwencji fitness. Absolwentka Studiów podyplomowych: Nowoczesne formy fizjoterapii
+{: .text-justify}
 ### Paweł Jendrzejewski
 #### Fizjoterapeuta
-{% include figure image_path="/assets/images/rsz_1pawel.jpg" alt="Paweł Jendrzejewski" caption="Trener i rehabilitant. Prowadzi rehabilitację kardiologiczną, pourazową, pooperacyjną i neurologiczną. Instruktor odnowy biologicznej, instruktor rekreacji ruchowej i ćwiczeń siłowych. Nauczyciel ćwiczeń korekcyjnych. Specjalista dietetyk." %}
-
+{% include figure image_path="/assets/images/rsz_1pawel.jpg" alt="Paweł Jendrzejewski" %}
+Trener i rehabilitant. Prowadzi rehabilitację kardiologiczną, pourazową, pooperacyjną i neurologiczną. Instruktor odnowy biologicznej, instruktor rekreacji ruchowej i ćwiczeń siłowych. Nauczyciel ćwiczeń korekcyjnych. Specjalista dietetyk.
+{: .text-justify}
 
 ### Bożenna Zalewska- Flont
 #### Lekarz rehabilitant
 
 Lekarz specjalizujący się w krioterapii, terapii ruchowej i leczeniu otyłości, absolwent Akademii Medycznej i AWFiS. Posiada bogate doświadczenie w promocji zdrowia i ruchu. Jej motto życiowe to „Ruch zastąpi każdy lek, ale żaden lek nie zastąpi ruchu”. Osoba o ogromnych pokładach pozytywnej energii.
-
+{: .text-justify}
 ### Dagmara Piotrowska 
 #### Psychodietetyk, psychoterapeuta
-{% include figure image_path="/assets/images/rsz_dagmara-p-laptop.jpg" alt="Dagmara Piotrowska" caption="Ukończyła studia podyplomowe na SWPS w Sopocie kierunek Psychodietetyka, instruktor Professional Fitness Aqua i ratownik wodny. Pomysłodawczyni i założycielka Klubu, którego podstawę stanowiły jej własne doświadczenia i pragnienie niesienia pomocy innym." %}
+{% include figure image_path="/assets/images/rsz_dagmara-p-laptop.jpg" alt="Dagmara Piotrowska" %}
+Ukończyła studia podyplomowe na SWPS w Sopocie kierunek Psychodietetyka, instruktor Professional Fitness Aqua i ratownik wodny. Pomysłodawczyni i założycielka Klubu, którego podstawę stanowiły jej własne doświadczenia i pragnienie niesienia pomocy innym.
+{: .text-justify}
