@@ -56,8 +56,8 @@ gallery:
   - url: /assets/images/basen.jpg
     image_path: /assets/images/tn_basen.jpg
     alt: "Zajęcia na basenie"        
-  - url: /assets/images/basen2.jpg
-    image_path: /assets/images/tn_basen2.jpg
+  - url: /assets/images/basen4.jpg
+    image_path: /assets/images/tn_basen4.jpg
     alt: "Zajęcia na basenie"  
 
 gallery2:
@@ -73,8 +73,8 @@ gallery2:
   - url: /assets/images/marsze.jpg
     image_path: /assets/images/tn_marsze.jpg
     alt: "Marsze"
-  - url: /assets/images/sala.jpg
-    image_path: /assets/images/tn_sala.jpg
+  - url: /assets/images/sala3.jpg
+    image_path: /assets/images/tn_sala3.jpg
     alt: "Haloween"
 
 ---
