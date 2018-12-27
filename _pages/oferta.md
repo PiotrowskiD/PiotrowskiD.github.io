@@ -16,16 +16,16 @@ description: Karnety już od 195zł. – w cenie karnetu rozpisana spersonalizow
 ---
 
 
-### Karnet podstawowy
+### Pakiet podstawowy
 rozpisana spersonalizowana dieta, pomiary masy i składu ciała, warsztaty dietetyczne, konsultacje medyczne, zajęcia na sali z instruktorem 2 razy w tygodniu, marsze
 {: .text-justify}
-### Karnet open
+### Pakiet open
 rozpisana spersonalizowana dieta, pomiary masy i składu ciała, warsztaty dietetyczne, konsultacje medyczne, zajęcia na sali z instruktorem bez ograniczeń, marsze
 {: .text-justify}
-### Karnet podstawowy z basenem
+### Pakiet podstawowy z basenem
 rozpisana spersonalizowana dieta, warsztaty dietetyczne, konsultacje medyczne, zajęcia na sali z instruktorem 2 razy w tygodniu, marsze, aqua aerobic raz w tygodniu
 {: .text-justify}
-### Karnet open z basenem
+### Pakiet open z basenem
 rozpisana spersonalizowana dieta, warsztaty dietetyczne, konsultacje medyczne, zajęcia na sali z instruktorem bez ograniczeń, marsze, aqua aerobic 2 razy w tygodniu
 {: .text-justify}
 ### Konsultacje psychodietetyczne
