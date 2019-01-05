@@ -57,6 +57,8 @@ Trener personalny. Instruktor fitnessu. Uczestniczka wielu szkoleń i konwencji 
 #### Fizjoterapeuta
 {% include figure image_path="/assets/images/rsz_1pawel.jpg" alt="Paweł Jendrzejewski" %}
 Trener i rehabilitant. Prowadzi rehabilitację kardiologiczną, pourazową, pooperacyjną i neurologiczną. Instruktor odnowy biologicznej, instruktor rekreacji ruchowej i ćwiczeń siłowych. Nauczyciel ćwiczeń korekcyjnych. Specjalista dietetyk.
+
+Więcej informacji pod adresem: https://gdansk-fizjoterapia.pl/
 {: .text-justify}
 
 ### Bożenna Zalewska- Flont
