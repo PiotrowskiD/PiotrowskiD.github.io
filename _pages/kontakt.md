@@ -17,9 +17,10 @@ description: "Osoby zainteresowane zapraszamy do kontaktu. Adres mailowy klubsku
 ---
 
 
-#### e-mail: klubskutecznejutratywagi@gmail.com
-#### tel. kom. 606-98-89-89
-#### tel. 58-341-64-26
+#### E-mail: klubskutecznejutratywagi@gmail.com
+#### Tel. kom. 606-98-89-89
+#### Tel. 58-341-64-26
+#### Strona www: https://psychodietetyk-piotrowska.pl/ 
 
 #### Gdańsk Wrzeszcz ul. Słowackiego 4 (wjazd od ul. Małachowskiego)
 <br><br>

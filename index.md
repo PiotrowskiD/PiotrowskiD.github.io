@@ -68,4 +68,6 @@ Lekarz specjalizujący się w krioterapii, terapii ruchowej i leczeniu otyłośc
 #### Psychodietetyk, psychoterapeuta
 {% include figure image_path="/assets/images/rsz_dagmara-p-laptop.jpg" alt="Dagmara Piotrowska" %}
 Ukończyła studia podyplomowe na SWPS w Sopocie kierunek Psychodietetyka, instruktor Professional Fitness Aqua i ratownik wodny. Pomysłodawczyni i założycielka Klubu, którego podstawę stanowiły jej własne doświadczenia i pragnienie niesienia pomocy innym.
+
+Więcej informacji pod adresem: https://psychodietetyk-piotrowska.pl/ 
 {: .text-justify}
