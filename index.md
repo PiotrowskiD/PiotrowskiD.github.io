@@ -58,7 +58,7 @@ Trener personalny. Instruktor fitnessu. Uczestniczka wielu szkoleń i konwencji 
 {% include figure image_path="/assets/images/rsz_1pawel.jpg" alt="Paweł Jendrzejewski" %}
 Trener i rehabilitant. Prowadzi rehabilitację kardiologiczną, pourazową, pooperacyjną i neurologiczną. Instruktor odnowy biologicznej, instruktor rekreacji ruchowej i ćwiczeń siłowych. Nauczyciel ćwiczeń korekcyjnych. Specjalista dietetyk.
 
-Więcej informacji pod adresem: https://gdansk-fizjoterapia.pl/
+Więcej informacji pod adresem: <a href="https://gdansk-fizjoterapia.pl/">https://gdansk-fizjoterapia.pl/</a>
 {: .text-justify}
 
 ### Bożenna Zalewska- Flont
@@ -71,5 +71,5 @@ Lekarz specjalizujący się w krioterapii, terapii ruchowej i leczeniu otyłośc
 {% include figure image_path="/assets/images/rsz_dagmara-p-laptop.jpg" alt="Dagmara Piotrowska" %}
 Ukończyła studia podyplomowe na SWPS w Sopocie kierunek Psychodietetyka, instruktor Professional Fitness Aqua i ratownik wodny. Pomysłodawczyni i założycielka Klubu, którego podstawę stanowiły jej własne doświadczenia i pragnienie niesienia pomocy innym.
 
-Więcej informacji pod adresem: https://psychodietetyk-piotrowska.pl/ 
+Więcej informacji pod adresem: <a href="https://psychodietetyk-piotrowska.pl/">https://psychodietetyk-piotrowska.pl/</a>
 {: .text-justify}
