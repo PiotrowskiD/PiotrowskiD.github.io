@@ -22,7 +22,9 @@ description: "Osoby zainteresowane zapraszamy do kontaktu. Adres mailowy klubsku
 #### Tel. 58-341-64-26
 #### Strona www psychodietetyka: <a href="https://psychodietetyk-piotrowska.pl/">https://psychodietetyk-piotrowska.pl/</a>
 
-#### Gdańsk Wrzeszcz ul. Słowackiego 4 (wjazd od ul. Małachowskiego)
+#### Konsultacje psychoterapeutyczne odbywają się w gabinecie ul. Do Studzienki 63 Gdańsk (gabinet 107)
+#### Zajęcia ruchowe odbywają się na terenie Centrum Sportu Akademickiego Al. Zwycięstwa 12 Gdańsk (koło Multikina)
+
 <br><br>
 {% include figure image_path="/assets/images/dagmara-p-laptop.jpeg" alt="Dagmara Piotrowska"  %}
 
