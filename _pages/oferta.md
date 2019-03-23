@@ -16,26 +16,35 @@ description: Karnety już od 195zł. – w cenie karnetu rozpisana spersonalizow
 ---
 
 
-### Pakiet podstawowy
-rozpisana spersonalizowana dieta, pomiary masy i składu ciała, warsztaty dietetyczne, konsultacje medyczne, zajęcia na sali z instruktorem 2 razy w tygodniu, marsze
-{: .text-justify}
-### Pakiet open
-rozpisana spersonalizowana dieta, pomiary masy i składu ciała, warsztaty dietetyczne, konsultacje medyczne, zajęcia na sali z instruktorem bez ograniczeń, marsze
-{: .text-justify}
-### Pakiet podstawowy z basenem
-rozpisana spersonalizowana dieta, warsztaty dietetyczne, konsultacje medyczne, zajęcia na sali z instruktorem 2 razy w tygodniu, marsze, aqua aerobic raz w tygodniu
-{: .text-justify}
-### Pakiet open z basenem
-rozpisana spersonalizowana dieta, warsztaty dietetyczne, konsultacje medyczne, zajęcia na sali z instruktorem bez ograniczeń, marsze, aqua aerobic 2 razy w tygodniu
-{: .text-justify}
 ### Konsultacje psychodietetyczne
-obejmują pomoc w rozwiązywaniu problemów związanych ze sposobem odżywiania popartą działaniami ukierunkowanymi na wzmacnianie procesów regulacji wewnętrznej
-### Konsultacja lekarska
-wywiad lekarski z diagnozą przyczyn otyłości, badanie fizykalne, uproszczona próba wydolnościowa
+Obejmują pomoc w rozwiązywaniu problemów związanych ze sposobem odżywiania takimi jak kompulsywne jedzenie, objadanie się i podjadanie. Konsultacje prowadzi doświadczony dietetyk i psychoterapeuta. Zalecane minimum to dwie konsultacje.
 
-* w przypadku diety eliminacyjnej – dopłata od 50 do 150zł/m-c
-{: .text-justify}
+Cena konsultacji 100zł (pierwsza wizyta) 75zł (kolejne wizyty).
 
-Wpłat należy dokonywać na konto:
-nr 70 1050 1764 1000 0092 2305 4645
-USŁUGI PROZDROWOTNE DAGMARA PIOTROWSKA
+
+### Pakiet podstawowy: cena 195zł/miesiąc
+Rozpisana dieta, pomiary masy i składu ciała, warsztaty dietetyczne, konsultacje medyczne, zajęcia na sali z instruktorem 2 razy w tygodniu, marsze od 1 do 3 razy w tygodniu.
+
+
+### Pakiet open: cena 215zł/miesiąc
+rozpisana dieta, pomiary masy i składu ciała, warsztaty dietetyczne, konsultacje medyczne, zajęcia na sali z instruktorem bez ograniczeń, marsze od 1 do 3 razy w tygodniu..
+
+
+### Pakiet podstawowy z basenem: cena 250zł/miesiąc
+Rozpisana dieta, warsztaty dietetyczne, konsultacje medyczne, zajęcia na sali z instruktorem 2 razy w tygodniu, aqua aerobic raz w tygodniu, marsze od 1 do 3 razy w tygodniu.
+
+
+### Pakiet open z basenem: cena 330zł/miesiąc
+Rozpisana dieta, warsztaty dietetyczne, konsultacje medyczne, zajęcia na sali z instruktorem bez ograniczeń, aqua aerobic 2 razy w tygodniu, marsze od 1 do 3 razy w tygodniu.
+
+
+### Pakiet personalny: cena 450zł/miesiąc (godziny poranne i popołudniowe); 540zł (godziny popołudniowe)
+Rozpisana dieta, pomiary masy i składu ciała, warsztaty dietetyczne, konsultacje medyczne, aqua aerobik lub zajęcia na sali z instruktorem 2 razy w tygodniu, marsze , trening personalny z instruktorem 1 raz w tygodniu ( w zespołach dwuosobowych).
+
+
+W przypadku diety eliminacyjnej – dopłata do karnetu od
+50 do 150zł/m-c
+
+Wpłat należy dokonywać na konto: nr 70 1050 1764 1000
+0092 2305 4645 USŁUGI PROZDROWOTNE DAGMARA
+PIOTROWSKA lub płatność gotówką.
