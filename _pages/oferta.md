@@ -47,7 +47,9 @@ W przypadku diety eliminacyjnej – dopłata do karnetu od
 50 do 150zł/m-c
 
 Wpłat należy dokonywać na konto: 
+
 nr 70 1050 1764 1000 0092 2305 4645 
+
 USŁUGI PROZDROWOTNE DAGMARAPIOTROWSKA 
 
 lub płatność gotówką.
