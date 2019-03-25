@@ -17,10 +17,14 @@ description: Karnety już od 195zł. – w cenie karnetu rozpisana spersonalizow
 
 
 ### Konsultacje psychodietetyczne
-Obejmują pomoc w rozwiązywaniu problemów związanych ze sposobem odżywiania takimi jak kompulsywne jedzenie, objadanie się i podjadanie. Konsultacje prowadzi doświadczony dietetyk i psychoterapeuta. Zalecane minimum to dwie konsultacje.
-
 Cena konsultacji 100zł (pierwsza wizyta) 75zł (kolejne wizyty).
 
+
+Obejmują pomoc w rozwiązywaniu problemów związanych ze sposobem odżywiania takimi jak kompulsywne jedzenie, objadanie się i podjadanie. Konsultacje prowadzi doświadczony dietetyk i psychoterapeuta. Zalecane minimum to dwie konsultacje.
+
+
+### Pakiet personalny: cena 450zł/miesiąc (godziny poranne i popołudniowe); 540zł (godziny popołudniowe)
+Rozpisana dieta, pomiary masy i składu ciała, warsztaty dietetyczne, konsultacje medyczne, aqua aerobik lub zajęcia na sali z instruktorem 2 razy w tygodniu, marsze , trening personalny z instruktorem 1 raz w tygodniu ( w zespołach dwuosobowych).
 
 ### Pakiet podstawowy: cena 195zł/miesiąc
 Rozpisana dieta, pomiary masy i składu ciała, warsztaty dietetyczne, konsultacje medyczne, zajęcia na sali z instruktorem 2 razy w tygodniu, marsze od 1 do 3 razy w tygodniu.
@@ -38,13 +42,12 @@ Rozpisana dieta, warsztaty dietetyczne, konsultacje medyczne, zajęcia na sali z
 Rozpisana dieta, warsztaty dietetyczne, konsultacje medyczne, zajęcia na sali z instruktorem bez ograniczeń, aqua aerobic 2 razy w tygodniu, marsze od 1 do 3 razy w tygodniu.
 
 
-### Pakiet personalny: cena 450zł/miesiąc (godziny poranne i popołudniowe); 540zł (godziny popołudniowe)
-Rozpisana dieta, pomiary masy i składu ciała, warsztaty dietetyczne, konsultacje medyczne, aqua aerobik lub zajęcia na sali z instruktorem 2 razy w tygodniu, marsze , trening personalny z instruktorem 1 raz w tygodniu ( w zespołach dwuosobowych).
-
 
 W przypadku diety eliminacyjnej – dopłata do karnetu od
 50 do 150zł/m-c
 
-Wpłat należy dokonywać na konto: nr 70 1050 1764 1000
-0092 2305 4645 USŁUGI PROZDROWOTNE DAGMARA
-PIOTROWSKA lub płatność gotówką.
+Wpłat należy dokonywać na konto: 
+nr 70 1050 1764 1000 0092 2305 4645 
+USŁUGI PROZDROWOTNE DAGMARAPIOTROWSKA 
+
+lub płatność gotówką.
