@@ -51,5 +51,4 @@ Usługi prozdrowotne Dagmara Piotrowska
 nr 70 1050 1764 1000 0092 2305 4645 
 
 
-
 lub płatność gotówką.
