@@ -37,8 +37,6 @@ Rozpisana dieta, warsztaty dietetyczne, konsultacje medyczne, zajęcia na sali z
 Rozpisana dieta, warsztaty dietetyczne, konsultacje medyczne, zajęcia na sali z instruktorem bez ograniczeń, aqua aerobic 2 razy w tygodniu, marsze od 1 do 3 razy w tygodniu.
 
 
-### Pakiet personalny: cena 450zł/miesiąc (godziny poranne i popołudniowe); 540zł (godziny popołudniowe)
-Rozpisana dieta, pomiary masy i składu ciała, warsztaty dietetyczne, konsultacje medyczne, aqua aerobik lub zajęcia na sali z instruktorem 2 razy w tygodniu, marsze , trening personalny z instruktorem 1 raz w tygodniu ( w zespołach dwuosobowych).
 
 
 W przypadku diety eliminacyjnej – dopłata do karnetu od
