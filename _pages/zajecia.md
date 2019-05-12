@@ -18,7 +18,7 @@ description: "Oferujemy zajęcia sportowe dla osób z nadwagą i otyłością. �
 
 
 
-### Aquaspalanie
+### Aqua aerobic
 innowacyjna forma spalania kalorii podczas treningu w
 wodzie opartego w głównej mierze na intensywnych
 ćwiczeniach, konkurencjach, tańcu i radosnym uwalnianiu
