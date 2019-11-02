@@ -16,7 +16,7 @@ description: Karnety już od 195zł. – w cenie karnetu rozpisana spersonalizow
 ---
 
 
-### Konsultacje psychodietetyczne: cena 100zł (pierwsza wizyta) 75zł (kolejne wizyty).
+### Konsultacje psychodietetyczne: cena 130zł (pierwsza wizyta) 75zł (kolejne wizyty).
 Obejmują pomoc w rozwiązywaniu problemów związanych ze sposobem odżywiania takimi jak kompulsywne jedzenie, objadanie się i podjadanie. Konsultacje prowadzi doświadczony dietetyk i psychoterapeuta. Zalecane minimum to dwie konsultacje.
 
 
