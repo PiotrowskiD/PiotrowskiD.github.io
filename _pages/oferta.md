@@ -16,31 +16,31 @@ description: Karnety już od 195zł. – w cenie karnetu rozpisana spersonalizow
 ---
 
 
-### Konsultacje psychodietetyczne: cena 130zł (pierwsza wizyta) 75zł (kolejne wizyty).
+### Konsultacje psychodietetyczne: cena 130 zł (pierwsza wizyta) 75 zł (kolejne wizyty).
 Obejmują pomoc w rozwiązywaniu problemów związanych ze sposobem odżywiania takimi jak kompulsywne jedzenie, objadanie się i podjadanie. Konsultacje prowadzi doświadczony dietetyk i psychoterapeuta. Zalecane minimum to dwie konsultacje.
 
 
 
-### Pakiet podstawowy: cena 195zł/miesiąc
+### Pakiet podstawowy: cena 195 zł/miesiąc
 Rozpisana dieta, pomiary masy i składu ciała, warsztaty dietetyczne, konsultacje medyczne, zajęcia na sali z instruktorem 2 razy w tygodniu, marsze od 1 do 3 razy w tygodniu.
 
 
-### Pakiet open: cena 215zł/miesiąc
+### Pakiet open: cena 215 zł/miesiąc
 rozpisana dieta, pomiary masy i składu ciała, warsztaty dietetyczne, konsultacje medyczne, zajęcia na sali z instruktorem bez ograniczeń, marsze od 1 do 3 razy w tygodniu..
 
 
-### Pakiet podstawowy z basenem: cena 250zł/miesiąc
+### Pakiet podstawowy z basenem: cena 250 zł/miesiąc
 Rozpisana dieta, warsztaty dietetyczne, konsultacje medyczne, zajęcia na sali z instruktorem 2 razy w tygodniu, aqua aerobic raz w tygodniu, marsze od 1 do 3 razy w tygodniu.
 
 
-### Pakiet open z basenem: cena 330zł/miesiąc
+### Pakiet open z basenem: cena 330 zł/miesiąc
 Rozpisana dieta, warsztaty dietetyczne, konsultacje medyczne, zajęcia na sali z instruktorem bez ograniczeń, aqua aerobic 2 razy w tygodniu, marsze od 1 do 3 razy w tygodniu.
 
 
 
 
 W przypadku diety eliminacyjnej – dopłata do karnetu od
-50 do 150zł/m-c
+50 do 150 zł/m-c
 
 Wpłat należy dokonywać na konto: 
 
