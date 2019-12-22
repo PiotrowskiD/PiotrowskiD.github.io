@@ -31,8 +31,8 @@ Aqua aerobic 2 razy w tygodniu, pozostałe usługi jak w pakiecie podstawowym z 
 &nbsp;
 
 &nbsp;
-
-
+<br></br>
+<br></br>
 
 W przypadku diety eliminacyjnej – dopłata do karnetu od
 50 do 150 zł/m-c
