@@ -28,6 +28,9 @@ Rozpisana dieta, pomiary masy i składu ciała, warsztaty dietetyczne, konsultac
 ### Pakiet rozszerzony z basenem: cena 330zł/miesiąc
 Aqua aerobic 2 razy w tygodniu, pozostałe usługi jak w pakiecie podstawowym z basenem
 
+&nbsp;
+
+&nbsp;
 
 
 
