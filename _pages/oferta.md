@@ -15,6 +15,7 @@ sidebar:
 description: Karnety już od 195zł. – w cenie karnetu rozpisana spersonalizowana dieta na każdy dzień, pomiary masy i składu ciała, warsztaty dietetyczne, konsultacje medyczne, zajęcia na sali z instruktorem, opcjonalnie zajęcia na basenie. Konsultacje psychodietetyczne już od 60zł.
 ---
 
+## Uwaga: z uwagi na pandemię koronawirusa klub działa w zmienionej formie! Zajęcia prowadzone są na świeżym powietrzu i online – cena karnetu 90zł/m-c. Szczegółowe informacje tel. 606 98 89 89.
 
 ### Konsultacje psychodietetyczne: cena 130 zł (pierwsza wizyta) 75 zł (kolejne wizyty).
 Obejmują pomoc w rozwiązywaniu problemów związanych ze sposobem odżywiania takimi jak kompulsywne jedzenie, objadanie się i podjadanie. Konsultacje prowadzi doświadczony dietetyk i psychoterapeuta. Zalecane minimum to dwie konsultacje.
