@@ -69,4 +69,4 @@ wewnętrznych i zewnętrznych zasobów.
 
 
 ### Konsultacje psychoterapeutyczne odbywają się w gabinecie ul. Do Studzienki 63 Gdańsk (gabinet 107)
-### Zajęcia ruchowe odbywają się na terenie Centrum Sportu Akademickiego Al. Zwycięstwa 12 Gdańsk (koło Multikina)
+### Zajęcia ruchowe odbywają się na terenie klubu sportowego Spójnia ul. Słowackiego 4 Gdańsk (koło Galerii Bałtyckiej)
