@@ -19,8 +19,6 @@ description: "Osoby zainteresowane zapraszamy do kontaktu. Adres mailowy klubsku
 
 #### E-mail: klubskutecznejutratywagi@gmail.com
 #### Telefon: +48 692 866 802 – Justyna Golla
-
-#### Konsultacje psychoterapeutyczne odbywają się w gabinecie ul. Do Studzienki 63 Gdańsk (gabinet 107)
 #### Zajęcia ruchowe i warsztaty dietetyczne prowadzone są w klubie sportowym Spójnia ul. Słowackiego 4 Gdańsk (koło Galerii Bałtyckiej), zajęcia aqua aerobiku na basenie PG Al. Zwycięstwa 12
 
 ### Zapisy na konsultacje psychodietetyczne
