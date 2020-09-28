@@ -48,10 +48,11 @@ odżywiania i rozpocząć proces terapeutyczny.
 
 ## Kadra
 
-### Aneta Kaźmierczak 
+### Justyna Golla
 #### Trener fitness
-{% include figure image_path="/assets/images/rsz_aneta-k.jpg" alt="Aneta Kaźmierczak" %}
-Trener personalny. Instruktor fitnessu. Uczestniczka wielu szkoleń i konwencji fitness. Absolwentka Studiów podyplomowych: Nowoczesne formy fizjoterapii
+{% include figure image_path="/assets/images/justyna.jpeg" alt="Justyna Golla" %}
+Absolwentka Akademii Wychowania Fizycznego i Sportu w Gdańsku. Nauczyciel wychowania fizycznego w szkole, instruktor fitness, gimnastyki sportowej oraz trener personalny. Uczestniczka wielu warsztatów i szkoleń. Interesuje się zdrowym odżywianiem próbując różnych ciekawych
+przepisów w kuchni.
 {: .text-justify}
 ### Paweł Jendrzejewski
 #### Fizjoterapeuta
